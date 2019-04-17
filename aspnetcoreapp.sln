@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnetcoreapp", "docker-net-mvc-sample\aspnetcoreapp.csproj", "{E5378BB4-C3E7-44DB-8339-44318612CE1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{44698527-6ECC-4990-9EA8-751BB0D30672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5378BB4-C3E7-44DB-8339-44318612CE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5378BB4-C3E7-44DB-8339-44318612CE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5378BB4-C3E7-44DB-8339-44318612CE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5378BB4-C3E7-44DB-8339-44318612CE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44698527-6ECC-4990-9EA8-751BB0D30672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44698527-6ECC-4990-9EA8-751BB0D30672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44698527-6ECC-4990-9EA8-751BB0D30672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44698527-6ECC-4990-9EA8-751BB0D30672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C67E24EA-146F-457C-8B7B-C96D5DEE6349}
+	EndGlobalSection
+EndGlobal

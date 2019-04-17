@@ -1,0 +1,24 @@
+deploy net core with kubernettes
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .vs/config/applicationhost.config
+#	modified:   bin/Debug/netcoreapp2.0/aspnetcoreapp.deps.json
+#	modified:   bin/Debug/netcoreapp2.0/aspnetcoreapp.dll
+#	modified:   bin/Debug/netcoreapp2.0/aspnetcoreapp.pdb
+#	new file:   helloworld.yaml
+#	new file:   obj/Debug/netcoreapp2.0/aspnetcoreapp.assets.cache
+#	modified:   obj/Debug/netcoreapp2.0/aspnetcoreapp.csproj.FileListAbsolute.txt
+#	new file:   obj/Debug/netcoreapp2.0/aspnetcoreapp.csprojAssemblyReference.cache
+#	modified:   obj/Debug/netcoreapp2.0/aspnetcoreapp.csprojResolveAssemblyReference.cache
+#	modified:   obj/Debug/netcoreapp2.0/aspnetcoreapp.dll
+#	modified:   obj/Debug/netcoreapp2.0/aspnetcoreapp.pdb
+#	modified:   obj/aspnetcoreapp.csproj.nuget.cache
+#	modified:   obj/aspnetcoreapp.csproj.nuget.g.props
+#	modified:   obj/project.assets.json
+#

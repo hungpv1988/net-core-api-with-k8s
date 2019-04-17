@@ -1,0 +1,4 @@
+Remember to rename "Hello" folder by "aspnetcoreapp"
+Run two statements below
+docker build -t mynetmvcapp .
+docker run -d -p 8080:80 --name firstmvcapp mynetmvcapp

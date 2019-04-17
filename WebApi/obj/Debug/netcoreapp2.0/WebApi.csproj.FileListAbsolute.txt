@@ -1,0 +1,11 @@
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
+D:\EPiServer\Projects\Docker\DockerMVC\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojResolveAssemblyReference.cache

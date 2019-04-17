@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  webapi:
+    build:
+      context: D:\EPiServer\Projects\Docker\DockerMVC\docker-net-mvc-sample
+      dockerfile: ..\WebApi\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webapi
+    ports:
+    - 80/tcp
+version: '3.0'
